@@ -1,21 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# microverse-html-css-template
+# Testing with jest
 
-> A Microverse GitHub template for projects built with _`html`_, _`css`_, and _`javascript`_ only.
+This an introductive project about TDD (Test Driven Development) with jest.
 
 
 ## Built With
 
-- html
-- css
 - JavaScript
-
-
-## Live Demo (if available)
-
-
-## Screenshots (if available)
+- Jest
 
 
 ## Getting Started
@@ -42,20 +35,15 @@ Open _Terminal/Shell_ inside your _VSCode_ and run
 
 ### Run tests
 
-- For _hint_ tests, run
-  ```
-    npm run lint:hint
-  ```
-- For _style_ tests, run
-  ```
-    npm run lint:style
-  ```
 - For _eslint_ tests, run
   ```
     npm run lint:es
   ```
 
-### Deployment
+- For _jest_ tests, run
+  ```
+    npm test
+  ```
 
 
 ## Authors
