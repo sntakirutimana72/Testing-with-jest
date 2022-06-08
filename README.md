@@ -35,11 +35,6 @@ Open _Terminal/Shell_ inside your _VSCode_ and run
 
 ### Run tests
 
-- For _eslint_ tests, run
-  ```
-    npm run lint:es
-  ```
-
 - For _jest_ tests, run
   ```
     npm test
