@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 import { stringLength, reverseString, Calculator, capitalizeString } from "./index";
 
 describe('Test stringLength', () => {

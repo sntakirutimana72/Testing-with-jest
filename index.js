@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 /**
  *
  * @param {String} string

@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 module.exports = {
   presets: [
     [
